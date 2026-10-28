@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.1: refreshed MovieFlix branding and app icon.",
+  "message": "MovieFlix 1.0.2: improved green theme, Continue Watching and resume progress, spacing, and WhatsApp branding.",
   "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
 }
