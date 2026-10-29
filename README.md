@@ -12,10 +12,10 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 
 ```json
 {
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.0.3",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.2: improved green theme, Continue Watching and resume progress, spacing, and WhatsApp branding.",
+  "message": "MovieFlix 1.0.3: improved green theme, automatic update installer FileProvider cache-path failure.",
   "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
 }
 ```
