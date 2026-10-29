@@ -12,10 +12,10 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 
 ```json
 {
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.4",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.3: improved green theme, automatic update installer FileProvider cache-path failure.",
+  "message": "MovieFlix 1.0.4: improved green theme, green toolbar/navigation icons, switches, and buttons for a consistent green theme.",
   "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
 }
 ```

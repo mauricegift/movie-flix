@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.4",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.3 fixes automatic update installation by saving downloaded APKs inside the configured FileProvider cache path.",
+  "message": "MovieFlix 1.0.4: greener toolbar/navigation icons, switches, and buttons for a consistent green theme.",
   "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
 }
