@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.0",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.5 fixes a crash when displaying completed movie downloads.",
+  "message": "MovieFlix 1.0.0 initial release.",
   "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
 }
