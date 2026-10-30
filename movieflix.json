@@ -1,7 +1,1 @@
-{
-  "latestVersion": "1.0.0",
-  "minimumVersion": "1.0.0",
-  "forceUpdate": false,
-  "message": "MovieFlix 1.0.0 initial release.",
-  "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
-}
+{"latestVersion": "1.0.1", "minimumVersion": "1.0.0", "forceUpdate": false, "message": "MovieFlix 1.0.1: Music, Novels, subtitles, and player improvements.", "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix-v1.0.1.apk"}
