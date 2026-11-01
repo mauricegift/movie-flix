@@ -12,11 +12,11 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 
 ```json
 {
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.2",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.5: improved green theme, green toolbar/navigation icons, switches, and buttons for a consistent green theme.",
-  "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix.apk"
+  "message": "MovieFlix 1.0.2: Green multi-sport live streams, automatic alternate-server failover, more reliable HLS/DASH playback, privacy-safe errors and retries, and improved player/music notification controls.",
+  "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix-v1.0.2.apk"
 }
 ```
 
