@@ -22,10 +22,6 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 
 For a release, publish a signed APK as a GitHub Release asset named `movieflix.apk`, then set `latestVersion`, `minimumVersion` (normally unchanged), `message`, and `downloadUrl` in `movieflix.json`. App builds must increment both `versionName` and `versionCode`; Android’s updater rejects equal or lower build codes.
 
-## Signing and release security
-
-Do not upload signing keys, passwords, certificates intended to be private, or signing secrets to this public repository or its Releases. All production APKs must use the same private MovieFlix release keystore. The application package is `com.movieflix.app`; it is a new package identity and does not replace the former KeithFlix package. If the signing key is lost or changed, existing MovieFlix installations cannot receive normal in-place updates.
-
 ## Maintainer and contact
 
 **Maurice Gift**  
