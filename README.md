@@ -4,7 +4,7 @@ This public repository is the official MovieFlix Android **release and update-fe
 
 ## Download MovieFlix
 
-Download the latest stable APK from [GitHub Releases](https://github.com/mauricegift/movie-flix/releases/latest). The APK asset name must be exactly **`movieflix.apk`** so the in-app updater can retrieve it.
+Download the latest stable APK from [GitHub Releases](https://github.com/mauricegift/movie-flix/releases/latest). 
 
 ## Update manifest
 
@@ -20,7 +20,7 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 }
 ```
 
-For a release, publish a signed APK as a GitHub Release asset named `movieflix.apk`, then set `latestVersion`, `minimumVersion` (normally unchanged), `message`, and `downloadUrl` in `movieflix.json`. App builds must increment both `versionName` and `versionCode`; Android’s updater rejects equal or lower build codes.
+For a release, I publish a signed APK as a GitHub Release asset named `movieflix.apk`, then set `latestVersion`, `minimumVersion` (normally unchanged), `message`, and `downloadUrl` in `movieflix.json`. App builds must increment both `versionName` and `versionCode`; Android’s updater rejects equal or lower build codes.
 
 ## Maintainer and contact
 
