@@ -12,15 +12,15 @@ Download the latest stable APK from [GitHub Releases](https://github.com/maurice
 
 ```json
 {
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.0.3",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "message": "MovieFlix 1.0.2: Green multi-sport live streams, automatic alternate-server failover, more reliable HLS/DASH playback, privacy-safe errors and retries, and improved player/music notification controls.",
-  "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix-v1.0.2.apk"
+  "message": "MovieFlix 1.0.3: More reliable sports streams with match search and sorting, live-football alerts, improved downloads with multi-episode selection and next-episode playback, bulk phone saving with optional subtitle export, and refined audio-dub, offline playback, privacy, and cache controls.",
+  "downloadUrl": "https://github.com/mauricegift/movie-flix/releases/latest/download/movieflix-v1.0.3.apk"
 }
 ```
 
-For a release, I publish a signed APK as a GitHub Release asset named `movieflix.apk`, then set `latestVersion`, `minimumVersion` (normally unchanged), `message`, and `downloadUrl` in `movieflix.json`. App builds must increment both `versionName` and `versionCode`; Android’s updater rejects equal or lower build codes.
+For a release, publish a signed APK as a GitHub Release asset named `movieflix-vX.Y.Z.apk`, then set `latestVersion`, `minimumVersion` (normally unchanged), `message`, and `downloadUrl` in `movieflix.json`. App builds must increment both `versionName` and `versionCode`; Android’s updater rejects equal or lower build codes.
 
 ## Maintainer and contact
 
